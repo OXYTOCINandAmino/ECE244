@@ -1,0 +1,1 @@
+./Debug/TreeNode.cpp.o ./Debug/main.cpp.o ./Debug/TreeDB.cpp.o ./Debug/DBentry.cpp.o   
